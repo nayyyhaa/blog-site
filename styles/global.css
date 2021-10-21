@@ -26,19 +26,13 @@ img {
     display: block;
 }
 
-.highlight {
+.js-code-highlight {
+    overflow-x: scroll;
     background-color: rgb(29, 28, 48);
     color: white;
 }
 
-@media screen and (max-width:800px) {
-    code {
-        font-size: 10px;
-    }
+th {
+    border: 1px solid black;
 }
 
-@media screen and (max-width:400px) {
-    code {
-        font-size: 7px;
-    }
-}
