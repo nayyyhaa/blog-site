@@ -25,3 +25,20 @@ img {
     max-width: 100%;
     display: block;
 }
+
+.highlight {
+    background-color: rgb(29, 28, 48);
+    color: white;
+}
+
+@media screen and (max-width:800px) {
+    code {
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width:400px) {
+    code {
+        font-size: 7px;
+    }
+}
