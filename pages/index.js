@@ -27,8 +27,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi I'm Neha Gupta from Delhi, India. This is an experimental project
-          made with Next.js cuz I LOVE TO LEARN MORE!!!
+          Hi, I'm Neha Gupta a Full Stack Web Developer from Delhi, India. This is my blog site using <code>Next.js</code>
         </p>
         <p>
           Find me on{" "}
